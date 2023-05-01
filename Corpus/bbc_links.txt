@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/BBC_News/akuko.txt
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/BBC_News/egwuregwu.txt
