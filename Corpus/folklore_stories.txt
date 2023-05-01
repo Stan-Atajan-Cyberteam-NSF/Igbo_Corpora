@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Co
 https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/6.%20Atuuta%20n%20Nwa%20Iliko.txt
 https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/7.%20Oke%20enwe%20kwi-i%20yango.txt
 https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/8.%20Nwata%20na%20opi%20ya.txt
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/8.%20Nwata%20na%20opi%20ya.txt
