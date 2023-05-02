@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/1.Enendu%20igboanugo.txt
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/2.Nwa%C3%A8zulu%20onye%20og%C5%AB%20.txt
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/3.Obogwu%20Obogwu.txt
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/4.Ojaadili.txt
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/5.Ine%20ine%20ine%20ine.txt
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/6.%20Atuuta%20n%20Nwa%20Iliko.txt
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/7.%20Oke%20enwe%20kwi-i%20yango.txt
+https://raw.githubusercontent.com/Stan-Atajan-Cyberteam-NSF/Igbo_Corpora/main/Corpus/folklore_stories/folklore%20stories/8.%20Nwata%20na%20opi%20ya.txt
