@@ -1,0 +1,1815 @@
+﻿Column1,Word,Sentiment Score,Igbo_Word
+0,marvelous,1,magburu onwe ya
+1,masterfully,1,nke ukwu
+2,awesome,1,dị egwu
+3,awesomely,1,di egwu
+4,best,1,kacha mma
+5,flawless,1,enweghị ntụpọ
+6,excellent,1,magburu onwe ya
+7,wonderfully,1,magburu onwe ya
+8,perfectly,1,zuru oke
+9,faultless,1,enweghị ntụpọ
+10,superb,1,magburu onwe ya
+11,impressive,1,kemmasi
+12,masterful,1,mara mma
+13,flawlessly,1,enweghị ntụpọ
+14,exquisite,1,mara mma
+15,exquisitely,1,nke ukwuu
+16,superbly,1,magburu onwe ya
+17,perfect,1,zuru oke
+18,delightful,1,na-atọ ụtọ
+19,magnificent,1,magburu onwe ya
+20,magnificently,1,ebube
+21,impressively,1,kemmasi
+22,wonderful,1,magburu onwe ya
+23,excellently,1,magburu onwe ya
+24,delightfully,1,na-atọ ụtọ
+25,legendary,1,kpara
+26,priceless,1,enweghị ọnụ ahịa
+27,delicious,1,tọrọ ụtọ
+28,Delicious,1,Na-atọ ụtọ
+29,marvelously,1,dị ebube
+30,deliciously,1,tọrọ ụtọ
+31,impressedly,1,nke ukwuu
+32,faultlessly,1,n'enweghị ntụpọ
+33,consummate,0.95,na-agwụ agwụ
+34,consummately,0.95,kpamkpam
+35,artesian,0.9,onye artesian
+36,cushy,0.9,cuju
+37,incredible,0.9,dị ịtụnanya
+38,ideal,0.9,ezigbo
+39,dainty,0.9,dị ụtọ
+40,incredibly,0.9,na-enweghị atụ
+41,ideally,0.9,kacha mma
+42,daintily,0.9,kwa ụbọchị
+43,brilliant,0.9,amamiihe
+44,brilliantly,0.9,na-egbuke egbuke
+45,Artesian,0.9,Artesian
+46,beautifully,0.85,mara mma
+47,beautiful,0.85,mara mma
+48,splendid,0.8333333333333334,mara mma
+49,splendidly,0.8333333333333334,mara mma
+50,intelligent,0.8,nwere ọgụgụ isi
+51,greatly,0.8,nke ukwuu
+52,affably,0.8,nke ọma
+53,welcome,0.8,ndewo
+54,joy,0.8,ọṅụ
+55,elect,0.8,ahọpụta
+56,uncommon,0.8,adịkarịghị
+57,welcomely,0.8,daalụ
+58,happy,0.8,obi ụtọ
+59,Win,0.8,Mmeri
+60,unforgettable,0.8,agaghị echefu echefu
+61,fly,0.8,ofufe
+62,happily,0.8,obi ụtọ
+63,attractively,0.8,mara mma
+64,expressive,0.8,nkwuputa
+65,affable,0.8,ike
+66,bravely,0.8,obi ike
+67,favoredly,0.8,ihu ọma
+68,uncommonly,0.8,na-adịghị ahụkebe
+69,expressively,0.8,n'ezoghị ọnụ
+70,favored,0.8,amara
+71,intelligently,0.8,n'amamihe
+72,brave,0.8,obi ike
+73,win,0.8,merie
+74,unforgettably,0.8,na-agaghị echefu echefu
+75,experienced,0.8,ahụmahụ
+76,great,0.8,nnukwu
+77,proudly,0.8,nganga
+78,attractive,0.8,mara mma
+79,electly,0.8,nhọpụta
+80,dazzlingly,0.75,na-atụ egwu
+81,impeccably,0.75,enweghị atụ
+82,successfully,0.75,nke ọma
+83,remarkable,0.75,dị ịrịba ama
+84,successful,0.75,aga nke ọma
+85,impeccable,0.75,enweghị ntụpọ
+86,remarkably,0.75,n'ụzọ dị ịrịba ama
+87,pleasant,0.7333333333333333,obi ụtọ
+88,pleasantly,0.7333333333333333,obi ụtọ
+89,bright,0.7000000000000001,na-egbuke egbuke
+90,brightly,0.7000000000000001,na-egbuke egbuke
+91,good,0.7,nke ọma
+92,surprising,0.7,ihe ijuanya
+93,happiness,0.7,obi ụtọ
+94,fascinating,0.7,na-adọrọ mmasị
+95,cheery,0.7,obi ụtọ
+96,applaudably,0.7,nke ọma
+97,talented,0.7,nka
+98,delighted,0.7,Obi Ụtọ
+99,exhilaratingly,0.7,na-aṅụrị ọṅụ
+100,exhilarating,0.7,na-aṅụrị ọṅụ
+101,delightedly,0.7,na-atọ ụtọ
+102,erotic,0.7,agụụ mmekọahụ
+103,gorgeous,0.7,mara mma
+104,charming,0.7,mara mma
+105,superior,0.7,elu
+106,fairly,0.7,ziri ezi
+107,fabled,0.7,akụkọ ifo
+108,surprisingly,0.7,ihe ijuanya
+109,skittish,0.7,skittish
+110,felicitous,0.7,dị ụtọ
+111,heroic,0.7,dike
+112,gorgeously,0.7,mara mma
+113,charmingly,0.7,mara mma
+114,bewitching,0.7,ime mgbaasị
+115,felicitously,0.7,felictously
+116,applaudable,0.7,nke ọma
+117,fair,0.7,ngosi
+118,goodly,0.7,nke ọma
+119,fascinatingly,0.7,na-adọrọ mmasị
+120,heroicly,0.7,dike
+121,wisely,0.7,jiri amamihe
+122,optimum,0.7,kacha
+123,wise,0.7,maara ihe
+124,cheerily,0.7,ji obi ụtọ
+125,bewitchingly,0.7,n'ime amoosu
+126,skittishly,0.7,na nka
+127,superiorly,0.7,karia
+128,beloved,0.7,hụrụ n'anya
+129,sensationally,0.6666666666666666,na-akpali akpali
+130,exceptionally,0.6666666666666666,pụrụiche
+131,livelily,0.6666666666666666,dị ndụ
+132,exceptional,0.6666666666666666,pụrụiche
+133,sensational,0.6666666666666666,ihe na-akpali akpali
+134,affluent,0.6499999999999999,ọgaranya
+135,affluently,0.6499999999999999,bara ụba
+136,amazing,0.6000000000000001,ịtụnanya
+137,amazingly,0.6000000000000001,dị ịtụnanya
+138,noble,0.6,mara mma
+139,astounding,0.6,dị ịtụnanya
+140,unprecedentedly,0.6,na-enwetụbeghị ụdị ya
+141,catching,0.6,ijide
+142,kind,0.6,obi oma
+143,affirmative,0.6,kwenye
+144,tidily,0.6,nke ọma
+145,adept,0.6,mara mma
+146,popularly,0.6,ewu ewu
+147,deservingly,0.6,kwesịrị ekwesị
+148,affirmatively,0.6,n'ezie
+149,deluxe,0.6,nke kacha mma
+150,resourcefully,0.6,nke ọma
+151,rose,0.6,rose
+152,enthusiastic,0.6,na-anụ ọkụ n'obi
+153,nicely,0.6,mara mma
+154,charitably,0.6,nke ebere
+155,nobly,0.6,nke ọma
+156,deserving,0.6,kwesịrị ekwesị
+157,handy,0.6,kemfe
+158,spontaneous,0.6,na mberede
+159,courteous,0.6,nke ọma
+160,imaginatively,0.6,n'echiche
+161,motley,0.6,motley
+162,appreciatively,0.6,jiri ekele
+163,apt,0.6,dabara
+164,redoubtably,0.6,obi abụọ adịghị ya
+165,kindly,0.6,obi oma
+166,spectacularly,0.6,dị egwu
+167,catchingly,0.6,na-adọta
+168,handily,0.6,jiri aka
+169,popular,0.6,ewu ewu
+170,charitable,0.6,ọrụ ebere
+171,nice,0.6,mara mma
+172,candid,0.6,eziokwu
+173,warm,0.6,na-ekpo ọkụ
+174,resourceful,0.6,bara uru
+175,amusing,0.6,na-atọ ọchị
+176,courteously,0.6,nke ọma
+177,abundant,0.6,ukwuu
+178,honestly,0.6,n'eziokwu
+179,hazardous,0.6,dị ize ndụ
+180,unhampered,0.6,na-enweghị nsogbu
+181,own,0.6,nke onwe
+182,acutely,0.6,nke ọma
+183,effectively,0.6,nke ọma
+184,engrossingly,0.6,imebiga ihe ókè
+185,amusingly,0.6,na-atọ ọchị
+186,unprecedented,0.6,na-enwetụbeghị ụdị ya
+187,candidly,0.6,n'eziokwu
+188,abundantly,0.6,nke ukwuu
+189,appreciative,0.6,ekele
+190,aptly,0.6,nke ọma
+191,effective,0.6,dị irè
+192,deft,0.6,deft
+193,imaginative,0.6,n'echiche
+194,hazardously,0.6,dị ize ndụ
+195,warmly,0.6,na-ekpo ọkụ
+196,spectacular,0.6,di egwu
+197,Nice,0.6,Ọ dị mma
+198,lovingly,0.6,ịhụnanya
+199,acute,0.6,nnukwu
+200,astoundingly,0.6,dị ịtụnanya
+201,loving,0.6,ihunanya
+202,tidy,0.6,edoziri
+203,spontaneously,0.6,na mberede
+204,honest,0.6,eziokwu
+205,redoubtable,0.6,enwere ike imeghari
+206,deftly,0.6,ji aghụghọ
+207,engrossing,0.6,na-etinye ọnụ
+208,suitably,0.55,dabara adaba
+209,astutely,0.55,nke ọma
+210,controversial,0.55,esemokwu
+211,controversially,0.55,na-ese okwu
+212,astute,0.55,mara ihe
+213,suitable,0.55,dabara adaba
+214,astonishing,0.5,dị ịtụnanya
+215,charismatic,0.5,adọrọ adọrọ
+216,sexy,0.5,sexy
+217,plausible,0.5,ezi uche
+218,satisfied,0.5,afọ juru
+219,stunning,0.5,dị ịtụnanya
+220,likable,0.5,dị mma
+221,handsomely,0.5,mara mma
+222,magic,0.5,anwansi
+223,inspirational,0.5,mkpali
+224,grippingly,0.5,grippingly
+225,innovative,0.5,ọhụrụ
+226,incorruptibly,0.5,na-emebi emebi
+227,famous,0.5,ama ama
+228,unexcelled,0.5,na-enweghị atụ
+229,elegant,0.5,mara mma
+230,sexually,0.5,mmekọahụ
+231,iconic,0.5,akara ngosi
+232,lovably,0.5,ịhụnanya
+233,Wealthy,0.5,Ọgaranya
+234,incorruptible,0.5,apụghị ire ure
+235,forcible,0.5,mmanye
+236,pivotally,0.5,nke dị mkpa
+237,skilled,0.5,nka
+238,innocent,0.5,aka ya dị ọcha
+239,adventurous,0.5,adventurous
+240,phenomenally,0.5,phenomenally
+241,phenomenal,0.5,phenomenal
+242,memorably,0.5,echefuru echefu
+243,Incorruptible,0.5,Apụghị ire ure
+244,pleasedly,0.5,obi ụtọ
+245,innocently,0.5,n'emeghị ihe ọjọọ
+246,adorable,0.5,mara mma
+247,respectfully,0.5,n'ụzọ nkwanye ùgwù
+248,respectably,0.5,n'ụzọ nkwanye ùgwù
+249,truthfully,0.5,n'eziokwu
+250,sophisticated,0.5,ọkaibe
+251,humorous,0.5,na-atọ ọchị
+252,more,0.5,Ọzọ
+253,advertently,0.5,n'amaghị ama
+254,advertent,0.5,mgbasa ozi
+255,static,0.5,static
+256,able,0.5,ike
+257,stunningly,0.5,dị ịtụnanya
+258,lovable,0.5,hụrụ n'anya
+259,respectful,0.5,nkwanye ùgwù
+260,leniently,0.5,jiri nwayọọ
+261,entertaining,0.5,na-atọ ụtọ
+262,famously,0.5,ama ama
+263,reputably,0.5,aha ọma
+264,sincere,0.5,ezi obi
+265,respectable,0.5,nkwanye ùgwù
+266,believable,0.5,kwere ekwe
+267,potent,0.5,ike
+268,ingeniously,0.5,jiri amamihe
+269,comical,0.5,ọchị
+270,refreshing,0.5,na-enye ume ọhụrụ
+271,overwhelmingly,0.5,nke ukwuu
+272,confidently,0.5,obi ike
+273,enjoyably,0.5,na-atọ ụtọ
+274,astonishingly,0.5,na-atụ n'anya
+275,sexual,0.5,mmekọahụ
+276,stylishly,0.5,nkecha
+277,precious,0.5,dị oké ọnụ ahịa
+278,love,0.5,ihunanya
+279,striking,0.5,na-egbu egbu
+280,coherently,0.5,kwekọrịtara ọnụ
+281,entertainingly,0.5,na-atọ ụtọ
+282,captivatingly,0.5,na-adọrọ adọrọ
+283,gladly,0.5,ji obi ụtọ
+284,interestingly,0.5,na-akpali mmasị
+285,overwhelming,0.5,nke ukwuu
+286,supportive,0.5,na-akwado
+287,ably,0.5,nke ọma
+288,witty,0.5,mara ihe
+289,authenticly,0.5,n'ezie
+290,satisfying,0.5,na-eju afọ
+291,many,0.5,ọtụtụ
+292,notably,0.5,karịsịa
+293,sincerely,0.5,ezi obi
+294,authentic,0.5,ezigbo
+295,cutely,0.5,mara mma
+296,enjoying,0.5,na-ekpori ndụ
+297,safe,0.5,mma
+298,hilarious,0.5,na-atọ ọchị
+299,prominently,0.5,pụtara ìhè
+300,prominent,0.5,pụtara ìhè
+301,Ok,0.5,Ọ dị mma
+302,gripping,0.5,ijide
+303,sure,0.5,doro anya
+304,elegantly,0.5,mara mma
+305,appropriate,0.5,dabara adaba
+306,pivotal,0.5,isi
+307,healthily,0.5,ahụ ike
+308,elaborate,0.5,ịkọwapụta
+309,potently,0.5,ike
+310,endearing,0.5,na-adọrọ mmasị
+311,convincingly,0.5,n'ụzọ doro anya
+312,riveting,0.5,riveting
+313,inventively,0.5,n'ichepụta ihe
+314,safely,0.5,n'udo
+315,gifted,0.5,nwere onyinye
+316,meaningful,0.5,bara uru
+317,workmanlike,0.5,onye na-arụ ọrụ
+318,humorously,0.5,na-atọ ọchị
+319,wittily,0.5,n'amaghị ama
+320,sympathetic,0.5,ọmịiko
+321,rewarding,0.5,na-akwụghachi ụgwọ
+322,acquainted,0.5,maara
+323,most,0.5,ọtụtụ
+324,meaningfully,0.5,nke pụtara
+325,agile,0.5,agile
+326,rewardingly,0.5,na-akwụghachi ụgwọ
+327,mostly,0.5,nke ukwuu
+328,fittingly,0.5,dabara adaba
+329,lenient,0.5,ịdị nwayọọ
+330,notable,0.5,pụtara ìhè
+331,lovely,0.5,mara mma
+332,adventurously,0.5,adventurously
+333,coherent,0.5,kwekọrịtara
+334,grand,0.5,nnukwu
+335,satisfiedly,0.5,afọ ojuju
+336,competent,0.5,tozuru oke
+337,plausibly,0.5,doro anya
+338,endearingly,0.5,na-adọrọ mmasị
+339,spirited,0.5,mmụọ
+340,convincing,0.5,kwenye
+341,competently,0.5,nke ọma
+342,handsome,0.5,mara mma
+343,elaborately,0.5,n'uju
+344,magically,0.5,anwansi
+345,cute,0.5,mara mma
+346,comically,0.5,na-atọ ọchị
+347,favorite,0.5,ọkacha mmasị
+348,lovelily,0.5,mara mma
+349,reputable,0.5,aha ọma
+350,wealthily,0.5,bara ọgaranya
+351,strikingly,0.5,pụtara ìhè
+352,satisfyingly,0.5,na-eju afọ
+353,inspirationally,0.5,n'ike mmụọ nsọ
+354,wacky,0.5,wacky
+355,top,0.5,n'elu
+356,appealingly,0.5,na-adọrọ mmasị
+357,better,0.5,mma
+358,surely,0.5,n'ezie
+359,greater,0.5,ukwuu
+360,inspiringly,0.5,na-akpali akpali
+361,adorably,0.5,mara mma
+362,betterly,0.5,ka mma
+363,fitting,0.5,dabara adaba
+364,captivating,0.5,na-adọrọ adọrọ
+365,touching,0.5,imetụ aka
+366,creatively,0.5,okike
+367,inspiring,0.5,na-akpali akpali
+368,glad,0.5,obi ụtọ
+369,appealing,0.5,na-adọrọ adọrọ
+370,grandly,0.5,nke ukwuu
+371,appropriately,0.5,dabara adaba
+372,giftedly,0.5,n'iji onyinye
+373,energetic,0.5,ike
+374,mannerly,0.5,nke ọma
+375,challengingly,0.5,na-ama aka
+376,winningly,0.5,imeri
+377,inventive,0.5,emeputa ihe
+378,magical,0.5,anwansị
+379,goofy,0.5,goofy
+380,creative,0.5,okike
+381,latest,0.5,kacha ọhụrụ
+382,wealthy,0.5,ọgaranya
+383,truthful,0.5,eziokwu
+384,outstanding,0.5,pụtara ìhè
+385,confident,0.5,obi ike
+386,preciously,0.5,dị oké ọnụ ahịa
+387,refreshingly,0.5,na-enye ume ọhụrụ
+388,interesting,0.5,na-adọrọ mmasị
+389,exotic,0.5,osisi
+390,healthy,0.5,ahụike
+391,hilariously,0.5,na-atọ ọchị
+392,spiritedly,0.5,nke mmụọ
+393,enjoyable,0.5,ụtọ
+394,memorable,0.5,echefu echefu
+395,stylish,0.5,nkecha
+396,forcibly,0.5,n'ike
+397,winning,0.5,imeri
+398,ingenious,0.5,ọgụgụ isi
+399,goofily,0.5,nke ọma
+400,outstandingly,0.5,pụtara ìhè
+401,becomingly,0.45,ịdị mma
+402,becoming,0.45,ịghọ
+403,easily,0.43333333333333335,mfe
+404,easy,0.43333333333333335,mfe
+405,strongly,0.4333333333333333,ike
+406,strong,0.4333333333333333,ike
+407,finely,0.4166666666666667,nke ọma
+408,gaily,0.4166666666666667,gaily
+409,fine,0.4166666666666667,mma
+410,gay,0.4166666666666667,nwoke nwere mmasị nwoke
+411,huge,0.4000000000000001,nnukwu
+412,accurately,0.4000000000000001,nke ọma
+413,hugely,0.4000000000000001,nnukwu
+414,accurate,0.4000000000000001,ziri ezi
+415,ecologically,0.4,gburugburu ebe obibi
+416,precise,0.4,kpomkwem
+417,sound,0.4,ụda
+418,cheerful,0.4,obi ụtọ
+419,unsalted,0.4,enweghị nnu
+420,comfortable,0.4,nke ọma
+421,smoothly,0.4,were were
+422,incomparably,0.4,enweghị atụ
+423,light,0.4,ìhè
+424,fortunately,0.4,ọ dabara nke ọma
+425,licentiously,0.4,n'ike
+426,flippantly,0.4,na-atụgharị uche
+427,relevant,0.4,mkpa
+428,primary,0.4,nke mbụ
+429,fabulously,0.4,magburu onwe ya
+430,flippant,0.4,flippant
+431,bizarrely,0.4,dị egwu
+432,crushingly,0.4,na-etipịa
+433,detailed,0.4,zuru ezu
+434,fabulous,0.4,magburu onwe ya
+435,perplexed,0.4,mgbagwoju anya
+436,secure,0.4,nchekwa
+437,credible,0.4,kwesiri ntukwasi obi
+438,unadulterated,0.4,emegharighi ya
+439,engagingly,0.4,na-etinye aka
+440,crushing,0.4,na-etipịa
+441,licentious,0.4,nke ime ihe ike
+442,mighty,0.4,dike
+443,free,0.4,n'efu
+444,steadfast,0.4,guzosie ike
+445,incomparable,0.4,enweghị atụ
+446,guarded,0.4,echedoro
+447,detailedly,0.4,n'ụzọ zuru ezu
+448,thoughtfully,0.4,n'uche
+449,precisely,0.4,kpomkwem
+450,fitly,0.4,dabara adaba
+451,indispensably,0.4,dị mkpa
+452,unadulteratedly,0.4,na-edochaghị anya
+453,comfortably,0.4,nke ọma
+454,obedient,0.4,na-erube isi
+455,crafty,0.4,aghụghọ
+456,importantly,0.4,nke dị mkpa
+457,cheaply,0.4,ọnụ ala
+458,comprehensibly,0.4,n'ụzọ nghọta
+459,fortunate,0.4,ihe ndabara ọma
+460,appositely,0.4,nke ọma
+461,autonomous,0.4,kwụụrụ onwe ya
+462,autonomously,0.4,onwe ya
+463,genuinely,0.4,n'ezie
+464,freely,0.4,n'efu
+465,steadfastly,0.4,guzosie ike
+466,applicatively,0.4,ọdabara
+467,credibly,0.4,n'eziokwu
+468,civilized,0.4,mepere anya
+469,apposite,0.4,ngwa ngwa
+470,superfine,0.4,nke kacha mma
+471,mightily,0.4,ike
+472,important,0.4,mkpa
+473,attentively,0.4,nke ọma
+474,cheerfully,0.4,ji obi ụtọ
+475,obediently,0.4,nrubeisi
+476,indispensable,0.4,dị mkpa
+477,attentive,0.4,ṅaa ntị
+478,primarily,0.4,isi
+479,fantasticly,0.4,kediegwu
+480,thoughtful,0.4,na-eche echiche
+481,relevantly,0.4,dabara adaba
+482,enjoy,0.4,nwee obi ụtọ
+483,smooth,0.4,ire ụtọ
+484,available,0.4,dị
+485,comprehensible,0.4,nghọta
+486,applicative,0.4,ngwa
+487,confirmed,0.4,kwadoro
+488,perplexedly,0.4,na mgbagwoju anya
+489,naturalistic,0.4,eke
+490,advanced,0.4,elu
+491,soundly,0.4,dara ụda
+492,bizarre,0.4,dị egwu
+493,sprightly,0.4,nke ọma
+494,cheap,0.4,ọnụ ala
+495,craftily,0.4,aghụghọ
+496,guardedly,0.4,na-eche nche
+497,lightly,0.4,dị obere
+498,sprightlily,0.4,sprightlily
+499,filled,0.4,jupụtara
+500,availably,0.4,dị
+501,confirmedly,0.4,kwenyesiri ike
+502,youngish,0.4,nwata
+503,securely,0.4,nke ọma
+504,engaging,0.4,na-etinye aka
+505,genuine,0.4,ezigbo
+506,fantastic,0.4,kediegwu
+507,fit,0.4,dabara
+508,ecological,0.4,gburugburu ebe obibi
+509,familiar,0.375,maara nke ọma
+510,unique,0.375,pụrụ iche
+511,friendlily,0.375,enyi na enyi
+512,straightforwardly,0.375,kwụ ọtọ
+513,familiarly,0.375,maara nke ọma
+514,significant,0.375,dị ịrịba ama
+515,accessible,0.375,enwere ike inweta
+516,Rich,0.375,Ọgaranya
+517,excitedly,0.375,ji obi ụtọ
+518,excited,0.375,obi ụtọ
+519,uniquely,0.375,pụrụ iche
+520,straightforward,0.375,kwụ ọtọ
+521,accessibly,0.375,ohere
+522,poetic,0.375,uri
+523,friendly,0.375,enyi na enyi
+524,original,0.375,mbụ
+525,richly,0.375,nke ukwuu
+526,rich,0.375,ọgaranya
+527,originally,0.375,mbụ
+528,significantly,0.375,budata
+529,clean,0.3666666666666667,dị ọcha
+530,cleanly,0.3666666666666667,dị ọcha
+531,specially,0.35714285714285715,karịsịa
+532,special,0.35714285714285715,pụrụ iche
+533,cool,0.35,dị jụụ
+534,celebrated,0.35,eme ememe
+535,sweetly,0.35,ụtọ
+536,TRUE,0.35,EZIOKWU
+537,coolly,0.35,dị jụụ
+538,full,0.35,juputara
+539,sweet,0.35,ụtọ
+540,tremendously,0.3333333333333333,nke ukwuu
+541,adequately,0.3333333333333333,zuru oke
+542,artistic,0.3333333333333333,nka
+543,adequate,0.3333333333333333,zuru oke
+544,luckily,0.3333333333333333,nke ọma
+545,boldly,0.3333333333333333,nkwuwa okwu
+546,mildly,0.3333333333333333,dị nwayọọ
+547,extraordinary,0.3333333333333333,pụrụ iche
+548,worthily,0.3333333333333333,kwesịrị ekwesị
+549,pregnant,0.3333333333333333,ime
+550,bold,0.3333333333333333,obi ike
+551,loyal,0.3333333333333333,iguzosi ike n'ihe
+552,super,0.3333333333333333,ibu
+553,mild,0.3333333333333333,dị nro
+554,pregnantly,0.3333333333333333,ime ime
+555,lucky,0.3333333333333333,kechioma
+556,quickly,0.3333333333333333,ngwa ngwa
+557,worthy,0.3333333333333333,kwesiri ekwesi
+558,loyally,0.3333333333333333,iguzosi ike n'ihe
+559,extraordinarily,0.3333333333333333,pụrụ iche
+560,quick,0.3333333333333333,ngwa ngwa
+561,tremendous,0.3333333333333333,nnukwu
+562,intriguingly,0.30000000000000004,na-akpali mmasị
+563,calmly,0.30000000000000004,jiri nwayọọ
+564,calm,0.30000000000000004,wetuo obi
+565,intriguing,0.30000000000000004,na-akpali akpali
+566,fringy,0.3,fringy
+567,elementary,0.3,elementrị
+568,goldenly,0.3,ọla edo
+569,absorbed,0.3,etinye obi gị dum
+570,worth,0.3,bara uru
+571,smile,0.3,ịmụmụ ọnụ ọchị
+572,usefully,0.3,bara uru
+573,laugh,0.3,ochi
+574,uncontroversial,0.3,enweghị mgbagha
+575,authoritatively,0.3,ikike
+576,intellectual,0.3,ọgụgụ isi
+577,colossal,0.3,nnukwu
+578,complimentarily,0.3,ekele
+579,enlighteningly,0.3,nghọta
+580,complimentary,0.3,ekele
+581,bonnily,0.3,obi ụtọ
+582,distinctly,0.3,nke ọma
+583,distinct,0.3,iche
+584,fresh,0.3,ọhụrụ
+585,unblinking,0.3,na-adịghị egbu egbu
+586,authoritative,0.3,ikike
+587,absorbedly,0.3,nke ukwuu
+588,success,0.3,ihe ịga nke ọma
+589,compellingly,0.3,n'ike
+590,lifelike,0.3,dị ka ndụ
+591,bonny,0.3,bonny
+592,economical,0.3,akụ na ụba
+593,rarely,0.3,adịkarịghị
+594,fun,0.3,fun
+595,elementarily,0.3,nke mbụ
+596,vocational,0.3,oru aka
+597,useful,0.3,bara uru
+598,colossally,0.3,nke ukwuu
+599,solicitously,0.3,nke ukwuu
+600,cleanlily,0.3,dị ọcha
+601,rare,0.3,obere
+602,excitingly,0.3,na-akpali akpali
+603,economically,0.3,aku na uba
+604,powerfully,0.3,ike
+605,golden,0.3,ọla edo
+606,intellectually,0.3,n'uche
+607,exciting,0.3,na-akpali akpali
+608,colorfully,0.3,agba
+609,solicitous,0.3,arịrịọ
+610,uncontroversially,0.3,na-enweghị mgbagha
+611,colorful,0.3,yi
+612,vocationally,0.3,nka aka
+613,unblinkingly,0.3,na-enweghị atụ
+614,enlightening,0.3,na-amụ ihe
+615,Bonny,0.3,Bonny
+616,powerful,0.3,ike
+617,freshly,0.3,ọhụrụ
+618,compelling,0.3,na-akpali mmasị
+619,right,0.2857142857142857,nri
+620,rightly,0.2857142857142857,ziri ezi
+621,exact,0.25,kpọmkwem
+622,supporting,0.25,na-akwado
+623,thrilling,0.25,na-akpali akpali
+624,seasoned,0.25,ihe ụtọ
+625,consistently,0.25,mgbe niile
+626,willing,0.25,njikere
+627,ambitious,0.25,oké ochicho
+628,prettily,0.25,mara mma
+629,seasonedly,0.25,n'oge
+630,peacefully,0.25,n'udo
+631,interestedly,0.25,nwere mmasị
+632,supportingly,0.25,na-akwado
+633,hotly,0.25,dị ọkụ
+634,recognizably,0.25,ghọtara
+635,logically,0.25,n'ụzọ ezi uche dị na ya
+636,peaceful,0.25,udo
+637,interested,0.25,nwere mmasị
+638,stellar,0.25,kpakpando
+639,pretty,0.25,mara mma
+640,funny,0.25,na-akpa ọchị
+641,evident,0.25,pụtara ìhè
+642,aware,0.25,mara
+643,lyric,0.25,egwu
+644,crisply,0.25,crisply
+645,first,0.25,mbụ
+646,educational,0.25,nkuzi
+647,avid,0.25,uchu
+648,exactly,0.25,kpọmkwem
+649,thrillingly,0.25,na-akpali akpali
+650,firstly,0.25,mbụ
+651,married,0.25,lụrụ di na nwunye
+652,crisp,0.25,crisp
+653,recognizable,0.25,amata
+654,higher,0.25,elu
+655,avidly,0.25,ji ịnụ ọkụ n'obi
+656,evidently,0.25,doro anya
+657,educationally,0.25,nkuzi
+658,hot,0.25,na-ekpo ọkụ
+659,funnily,0.25,na-atọ ọchị
+660,comic,0.25,ihe ọchị
+661,ambitiously,0.25,nke ukwuu
+662,consistent,0.25,na-agbanwe agbanwe
+663,logical,0.25,ezi uche
+664,willingly,0.25,obi oma
+665,positively,0.22727272727272727,nke ọma
+666,positive,0.22727272727272727,nti
+667,certain,0.21428571428571427,ụfọdụ
+668,purely,0.21428571428571427,naanị
+669,large,0.21428571428571427,nnukwu
+670,largely,0.21428571428571427,nke ukwuu
+671,pure,0.21428571428571427,dị ọcha
+672,smart,0.21428571428571427,smart
+673,smartly,0.21428571428571427,nke ọma
+674,certainly,0.21428571428571427,n'ezie
+675,very,0.2,nke ukwuu
+676,economic,0.2,akụ na ụba
+677,capable,0.2,ike
+678,stainlessly,0.2,igwe anaghị agba nchara
+679,amenable,0.2,dị mma
+680,gentle,0.2,nwayọọ
+681,intimately,0.2,na-akpachi anya
+682,whole,0.2,dum
+683,really,0.2,n'ezie
+684,ethically,0.2,n'omume
+685,absolutely,0.2,kpam kpam
+686,captive,0.2,n'agha
+687,quixotic,0.2,quixotic
+688,accomplished,0.2,mezuru
+689,convexly,0.2,convexly
+690,adoringly,0.2,ịhụnanya
+691,real,0.2,ezigbo
+692,amenably,0.2,nke ọma
+693,legible,0.2,ziri ezi
+694,absorbingly,0.2,absorbingly
+695,reasonable,0.2,ezi uche
+696,modernly,0.2,n'oge a
+697,reasonably,0.2,ezi uche
+698,straight,0.2,Kwụ ọtọ
+699,Modern,0.2,Oge a
+700,legally,0.2,n'ụzọ iwu kwadoro
+701,unusual,0.2,pụrụ iche
+702,promising,0.2,na-ekwe nkwa
+703,Real,0.2,Ezigbo
+704,attendant,0.2,onye ozi
+705,Mod,0.2,Mod
+706,thanks,0.2,daalụ
+707,unpaid,0.2,akwụghị ụgwọ
+708,intensely,0.2,ike
+709,gently,0.2,nwayo
+710,capably,0.2,ike
+711,philosophic,0.2,nkà ihe ọmụma
+712,much,0.2,ukwuu
+713,ethical,0.2,ụkpụrụ omume
+714,modern,0.2,nke oge a
+715,beefy,0.2,anụ ezi
+716,absolute,0.2,zuru oke
+717,consecrated,0.2,edoro nsọ
+718,aureate,0.2,aureate
+719,readily,0.2,ngwa ngwa
+720,aureately,0.2,aureately
+721,responsibly,0.2,n'ihi ezi ihe
+722,responsible,0.2,aka
+723,promisingly,0.2,na-ekwe nkwa
+724,attendantly,0.2,na-eje ozi
+725,unusually,0.2,na-adịghị ahụkebe
+726,appetizingly,0.2,na-eri nri
+727,intimate,0.2,nke chiri anya
+728,convex,0.2,convex
+729,legibly,0.2,n'ụzọ ziri ezi
+730,stainless,0.2,igwe anaghị agba nchara
+731,intense,0.2,siri ike
+732,ready,0.2,njikere
+733,legal,0.2,iwu
+734,straightly,0.2,kwụ ọtọ
+735,beefily,0.2,beefily
+736,absorbing,0.2,na-adọrọ adọrọ
+737,fast,0.2,ngwa ngwa
+738,clever,0.16666666666666666,amamihe
+739,particularly,0.16666666666666666,karịsịa
+740,supernatural,0.16666666666666666,ike karịrị nke mmadụ
+741,decently,0.16666666666666666,nke ọma
+742,older,0.16666666666666666,tọrọ
+743,main,0.16666666666666666,isi
+744,decent,0.16666666666666666,dị mma
+745,realistic,0.16666666666666666,ezi uche
+746,steady,0.16666666666666666,guzoro ọtọ
+747,particular,0.16666666666666666,akpan akpan
+748,contemporary,0.16666666666666666,dịkọrọ ndụ
+749,vibrantly,0.16666666666666666,vibrantly
+750,mainly,0.16666666666666666,tumadi
+751,contemporarily,0.16666666666666666,dị ugbu a
+752,steadily,0.16666666666666666,nwayọọ nwayọọ
+753,supernaturally,0.16666666666666666,ike karịrị nke mmadụ
+754,classic,0.16666666666666666,kpochapụwo
+755,cleverly,0.16666666666666666,jiri amamihe
+756,vibrant,0.16666666666666666,dị egwu
+757,high,0.16,elu
+758,highly,0.16,nke ukwuu
+759,concrete,0.15000000000000002,ihe
+760,concretely,0.15000000000000002,kpọmkwem
+761,normally,0.15,na-emekarị
+762,normal,0.15,nkịtị
+763,live,0.13636363636363635,ibi ndụ
+764,lively,0.13636363636363635,dị ndụ
+765,newly,0.13636363636363635,ọhụrụ
+766,new,0.13636363636363635,ọhụrụ
+767,vivid,0.125,doro anya
+768,vividly,0.125,doo anya
+769,clearly,0.10000000000000002,doro anya
+770,clear,0.10000000000000002,doro anya
+771,experimentally,0.1,nnwale
+772,frequently,0.1,ugboro ugboro
+773,titularly,0.1,titularly
+774,early,0.1,n'oge
+775,mature,0.1,tozuru okè
+776,young,0.1,nwata
+777,soberly,0.1,nke uche
+778,sober,0.1,nro
+779,maturely,0.1,tozuru oke
+780,unhesitatingly,0.1,n'egbughị oge
+781,modestly,0.1,jiri obi umeala
+782,classy,0.1,mara mma
+783,adult,0.1,okenye
+784,frequent,0.1,ugboro ugboro
+785,sensitive,0.1,mmetụta uche
+786,wild,0.1,ọhịa
+787,linguistic,0.1,asụsụ
+788,fixed,0.1,edoziri
+789,peaky,0.1,elu
+790,action,0.1,ime ihe
+791,masculine,0.1,nwoke
+792,multilateral,0.1,multilateral
+793,conceivably,0.1,n'echiche
+794,enigmatic,0.1,enigmatic
+795,alive,0.1,dị ndụ
+796,eruditely,0.1,nke ọma
+797,softly,0.1,nwayo
+798,considerable,0.1,nnukwu
+799,budding,0.1,ntoputa
+800,naturally,0.1,ndammana
+801,balmily,0.1,bamily
+802,complete,0.1,zuru oke
+803,fiftieth,0.1,nke iri ise
+804,culturally,0.1,omenala
+805,abridged,0.1,emechiri emechi
+806,experimental,0.1,nnwale
+807,multilaterally,0.1,multilaterally
+808,busy,0.1,ji n'aka
+809,youngly,0.1,nwata
+810,concisely,0.1,nkenke
+811,old,0.1,ochie
+812,concise,0.1,nkenke
+813,lush,0.1,lush
+814,professional,0.1,ọkachamara
+815,conscious,0.1,maara ihe
+816,unexpected,0.1,na-atụghị anya ya
+817,far,0.1,anya
+818,epic,0.1,Epic
+819,literary,0.1,edemede
+820,completely,0.1,kpam kpam
+821,Old,0.1,Ochie
+822,seamless,0.1,enweghị nkebi
+823,conceivable,0.1,iche echiche
+824,adjectival,0.1,adjective
+825,balmy,0.1,bami
+826,soft,0.1,nro
+827,unread,0.1,agughi akwukwo
+828,unhesitating,0.1,na-egbughị oge
+829,cloudless,0.1,igwe ojii enweghị igwe ojii
+830,direct,0.1,kpọmkwem
+831,sensitively,0.1,nke ọma
+832,nearly,0.1,fọrọ nke nta ka ọ bụrụ
+833,considerably,0.1,nke ukwu
+834,gettable,0.1,ihe oriri
+835,adamant,0.1,ekwe ekwe
+836,wow,0.1,Chaị
+837,loudly,0.1,n'olu dara ụda
+838,unblemished,0.1,na-enweghị ntụpọ
+839,consciously,0.1,nke ọma
+840,busily,0.1,ime ihe n'aka
+841,medicative,0.1,ọgwụ
+842,cultural,0.1,omenala
+843,natural,0.1,eke
+844,titular,0.1,titular
+845,manque,0.1,manque
+846,vitally,0.1,nke siri ike
+847,epicly,0.1,Epicly
+848,cloudlessly,0.1,igwe ojii na-enweghị isi
+849,abridgedly,0.1,n'atụghị egwu
+850,seamlessly,0.1,n'enweghị nsogbu
+851,lushly,0.1,lushly
+852,identifiable,0.1,amata
+853,wildly,0.1,nke siri ike
+854,loud,0.1,dara ụda
+855,sarcastic,0.1,mkparị
+856,modest,0.1,obi umeala
+857,dimly,0.1,di obere
+858,unexpectedly,0.1,na-atụghị anya ya
+859,masculinely,0.1,nwoke
+860,vital,0.1,dị mkpa
+861,professionally,0.1,ọkachamara
+862,markedly,0.1,pụtara ìhè
+863,fixedly,0.1,nke ọma
+864,near,0.1,nso
+865,dim,0.1,dimkpa
+866,amatory,0.1,amatory
+867,surprisedly,0.1,ihe ijuanya
+868,peakily,0.1,peakily
+869,acuate,0.1,nke ukwu
+870,directly,0.1,ozugbo
+871,erudite,0.1,onye nkuzi
+872,adjectivally,0.1,adjectively
+873,empirical,0.1,nke pụtara ìhè
+874,marked,0.1,akara
+875,profound,0.083333333,miri emi
+876,profoundly,0.083333333,miri emi
+877,broadly,0.0625,sara mbara
+878,Major,0.0625,Isi
+879,broad,0.0625,sara mbara
+880,major,0.0625,isi
+881,generally,0.05,n'ozuzu
+882,exuberant,0.05,na-aṅụrị ọṅụ
+883,exuberantly,0.05,na-aṅụrị ọṅụ
+884,general,0.05,izugbe
+885,bare,0.05,iferi
+886,inexpressibly,0.05,enweghị nkọwa
+887,apparently,0.05,o doro anya
+888,ceremonially,0.05,n'ememe
+889,barely,0.05,jisiri ike
+890,inexpressible,0.05,enweghị nkọwa
+891,ceremonial,0.05,emume
+892,Bare,0.05,iferi
+893,apparent,0.05,pụtara ìhè
+894,socially,0.033333333,ọha mmadụ
+895,social,0.033333333,elekọta mmadụ
+896,vacuum,-0.008333333,agụụ
+897,absence,-0.0125,enweghị
+898,flatly,-0.025,nke ọma
+899,flat,-0.025,dị larịị
+900,toilet,-0.033333333,ụlọ mposi
+901,arrest,-0.05,njide
+902,perpetually,-0.05,ebighebi
+903,stumble,-0.05,sụọ ngọngọ
+904,excuse,-0.05,ngọpụ
+905,long,-0.05,ogologo
+906,Gargantuan,-0.05,Gargantuan
+907,passionately,-0.05,nke ukwuu
+908,strangely,-0.05,iju
+909,unexplainedly,-0.05,na-akọwaghị
+910,unaffected,-0.05,emetụtaghị
+911,passionate,-0.05,kemmasi
+912,leftist,-0.05,aka ekpe
+913,strange,-0.05,iju
+914,grey,-0.05,agba ntụ
+915,unthinkable,-0.05,enweghị atụ
+916,monkey,-0.05,enwe
+917,rehash,-0.05,rehash
+918,cardiac,-0.05,obi
+919,unthinkably,-0.05,n'echeghị echiche
+920,longly,-0.05,ogologo oge
+921,changelessly,-0.05,na-agbanwe agbanwe
+922,unaffectedly,-0.05,na-enweghị mmetụta
+923,changeless,-0.05,enweghị mgbanwe
+924,minor,-0.05,obere
+925,sadism,-0.05,obi iru ala
+926,unexplained,-0.05,na-akọwaghị
+927,dry,-0.066666667,akọrọ
+928,putatively,-0.066666667,itinye uche
+929,putative,-0.066666667,itinye ihe
+930,characteristic,-0.066666667,njirimara
+931,depress,-0.066666667,ịda mbà n'obi
+932,limited,-0.071428571,oke
+933,singly,-0.071428571,otu
+934,limitedly,-0.071428571,oke
+935,single,-0.071428571,otu
+936,victim,-0.075,onye aja
+937,loose,-0.076923077,rụrụ arụ
+938,loosely,-0.076923077,na-atọ ụtọ
+939,polarly,-0.083333333,polarly
+940,polar,-0.083333333,pola
+941,lonely,-0.1,owu ọmụma
+942,lonelily,-0.1,owu ọmụma
+943,remote,-0.1,ime ime
+944,distant,-0.1,anya
+945,ineluctable,-0.1,enweghị mmasị
+946,unknownly,-0.1,amaghị ama
+947,peppery,-0.1,oseose
+948,propaganda,-0.1,okwu nduhie
+949,mentally,-0.1,n'uche
+950,careful,-0.1,kpachara anya
+951,emptily,-0.1,efu
+952,monosyllabic,-0.1,monosyllabic
+953,empty,-0.1,efu
+954,feverishly,-0.1,ahụ ọkụ
+955,feverish,-0.1,ahụ ọkụ
+956,carefully,-0.1,nke ọma
+957,pink,-0.1,pink
+958,inarticulate,-0.1,ekwughi okwu
+959,agedly,-0.1,ime agadi
+960,fluff,-0.1,ire ụtọ
+961,unbranded,-0.1,enweghị akara
+962,liable,-0.1,kwesiri ibu
+963,jail,-0.1,nga
+964,mental,-0.1,nke uche
+965,yarn,-0.1,yarn
+966,ceaselessly,-0.1,n'akwụsịghị akwụsị
+967,aged,-0.1,mere agadi
+968,widely,-0.1,ọtụtụ ebe
+969,ceaseless,-0.1,akwụsị akwụsị
+970,excruciatingly,-0.1,nke ukwuu
+971,harder,-0.1,Siri nnukwu ike
+972,lifelong,-0.1,ogologo ndụ
+973,commercialism,-0.1,ahia ahia
+974,distantly,-0.1,dị anya
+975,disbelievingly,-0.1,n'ekweghị ekwe
+976,partially,-0.1,akụkụ
+977,sec,-0.1,sk
+978,curious,-0.1,ịmata ihe
+979,crushed,-0.1,anuahade
+980,pinkly,-0.1,pinkly
+981,coma,-0.1,coma
+982,forgetfully,-0.1,chefuo
+983,disbelieving,-0.1,ekweghị ekwe
+984,toneless,-0.1,enweghị ụda olu
+985,minimal,-0.1,kacha nta
+986,unknown,-0.1,amaghị
+987,remotely,-0.1,remotely
+988,icy,-0.1,ice
+989,icily,-0.1,oyi akwa
+990,askew,-0.1,askew
+991,militarily,-0.1,agha
+992,drag,-0.1,dọrọ
+993,arbitrarily,-0.1,aka ike
+994,expectedly,-0.1,tụrụ anya
+995,devoid,-0.1,enweghị atụ
+996,stereotyped,-0.1,stereotyped
+997,inarticulately,-0.1,na-ekwughị okwu
+998,curiously,-0.1,na-achọ ịmata ihe
+999,unprocessed,-0.1,emebeghị ya
+1000,allegedly,-0.1,ebubo
+1001,slippingly,-0.1,na-amị amị
+1002,alarmingly,-0.1,na-atụ egwu
+1003,spent,-0.1,nọrọ
+1004,minus,-0.1,mwepu
+1005,closed,-0.1,mechiri emechi
+1006,spoof,-0.1,Spoof
+1007,forgetful,-0.1,na-echefu
+1008,aphonic,-0.1,aphonic
+1009,pity,-0.1,ọmịiko
+1010,immanent,-0.1,dị mkpa
+1011,wetly,-0.1,mmiri mmiri
+1012,slipping,-0.1,na-amị amị
+1013,wide,-0.1,obosara
+1014,roughly,-0.1,ike ike
+1015,partial,-0.1,ele mmadụ anya n'ihu
+1016,adversatively,-0.1,mmegide
+1017,minimally,-0.1,kacha nta
+1018,bitterly,-0.1,nke ilu
+1019,alarming,-0.1,na-atụ egwu
+1020,pepperily,-0.1,ose
+1021,furtively,-0.1,n'ike
+1022,contingent,-0.1,contingent
+1023,rough,-0.1,siri ike
+1024,roughage,-0.1,roughage
+1025,contingently,-0.1,ngwa ngwa
+1026,ineluctably,-0.1,na-apụghị ịhụ anya
+1027,wet,-0.1,mmiri mmiri
+1028,immanently,-0.1,nke ukwuu
+1029,center,-0.1,etiti
+1030,hollow,-0.1,oghere
+1031,bitter,-0.1,ilu
+1032,inexperienced,-0.1,enweghị ahụmahụ
+1033,unanswered,-0.1,azaghị ya
+1034,military,-0.1,agha
+1035,secondhand,-0.1,ihe ejigoro
+1036,intelligentsia,-0.1,ọgụgụ isi
+1037,arbitrary,-0.1,aka ike
+1038,tonelessly,-0.1,enweghị ụda olu
+1039,swill,-0.1,swill
+1040,furtive,-0.1,furtive
+1041,adversative,-0.1,mmegide
+1042,uncooked,-0.1,esighi ya
+1043,paly,-0.12,paly
+1044,sharp,-0.125,nkọ
+1045,extreme,-0.125,oke
+1046,abruptly,-0.125,na mberede
+1047,endlessly,-0.125,enweghi ngwụcha
+1048,other,-0.125,ọzọ
+1049,foreignly,-0.125,mba ofesi
+1050,extremely,-0.125,kemgwucha
+1051,due,-0.125,ruru
+1052,abrupt,-0.125,mberede
+1053,endless,-0.125,adịghị agwụ agwụ
+1054,foreign,-0.125,mba ofesi
+1055,sharply,-0.125,nkọcha
+1056,imitation,-0.133333333,nṅomi
+1057,gloom,-0.133333333,ọchịchịrị
+1058,active,-0.133333333,arụ ọrụ
+1059,cow,-0.133333333,ehi
+1060,actively,-0.133333333,na-arụsi ọrụ ike
+1061,conventional,-0.142857143,omenala
+1062,conventionally,-0.142857143,omenala
+1063,averagely,-0.15,nkezi
+1064,average,-0.15,nkezi
+1065,dark,-0.15,ọchịchịrị
+1066,darkly,-0.15,gbara ọchịchịrị
+1067,naughty,-0.15,onye nzuzu
+1068,sour,-0.15,utoojoo
+1069,naughtily,-0.15,jọgburu onwe ya
+1070,bass,-0.15,bass
+1071,down,-0.155555556,gbadaa
+1072,slightly,-0.166666667,ntakiri
+1073,less,-0.166666667,Mpekarị
+1074,hiddenly,-0.166666667,zoro ezo
+1075,previously,-0.166666667,mbụ
+1076,oddly,-0.166666667,dị egwu
+1077,black,-0.166666667,nwa
+1078,subject,-0.166666667,isiokwu
+1079,slight,-0.166666667,ntakiri
+1080,mundanely,-0.166666667,nke ụwa
+1081,half,-0.166666667,ọkara
+1082,typically,-0.166666667,na-emekarị
+1083,typical,-0.166666667,ụdị
+1084,bland,-0.166666667,isighi ike
+1085,odd,-0.166666667,dị iche
+1086,unpredictable,-0.166666667,enweghị atụ
+1087,blandly,-0.166666667,nke obi ojoo
+1088,previous,-0.166666667,gara aga
+1089,blackly,-0.166666667,oji
+1090,mundane,-0.166666667,nke ụwa
+1091,hidden,-0.166666667,zoro ezo
+1092,unpredictably,-0.166666667,na-atụghị anya ya
+1093,mess,-0.175,ọgbaghara
+1094,tight,-0.178571429,siri ike
+1095,tightly,-0.178571429,ike
+1096,little,-0.1875,ntakiri
+1097,leaden,-0.2,ndu
+1098,cozily,-0.2,dị jụụ
+1099,leadenly,-0.2,ndu
+1100,cozy,-0.2,mma
+1101,harshly,-0.2,n'ike
+1102,everyday,-0.2,kwa ụbọchị
+1103,imperceptibly,-0.2,na-aghọtaghị
+1104,narrowly,-0.2,dị warara
+1105,disabled,-0.2,nkwarụ
+1106,stark,-0.2,nke siri ike
+1107,showery,-0.2,ịsa ahụ
+1108,orthodox,-0.2,ọtọdọks
+1109,Sham,-0.2,Sham
+1110,trouble,-0.2,nsogbu
+1111,unevenly,-0.2,na-ekwekọghị ekwekọ
+1112,misfire,-0.2,mgbaghara
+1113,firm,-0.2,guzosie ike
+1114,shapelessly,-0.2,enweghị ọdịdị
+1115,choppy,-0.2,irighiri ihe
+1116,predictably,-0.2,amụma
+1117,fattily,-0.2,nke abuba
+1118,wanly,-0.2,anụ ọhịa
+1119,missing,-0.2,efu
+1120,dialectal,-0.2,olumba
+1121,wan,-0.2,wan
+1122,unengaging,-0.2,na-enweghị mmasị
+1123,childishly,-0.2,nwata
+1124,unoriginal,-0.2,na-abụghị nke mbụ
+1125,destroy,-0.2,ibibi
+1126,shapeless,-0.2,enweghị ọdịdị
+1127,crying,-0.2,na-ebe akwa
+1128,dead,-0.2,nwụrụ anwụ
+1129,heavy,-0.2,arọ
+1130,wasted,-0.2,emefusịa
+1131,imperceptible,-0.2,enweghị nghọta
+1132,diaphanous,-0.2,diaphanous
+1133,childish,-0.2,nwata
+1134,narrow,-0.2,warara
+1135,diffidently,-0.2,dị iche
+1136,predictable,-0.2,amụma
+1137,sham,-0.2,ihe efu
+1138,boundlessly,-0.2,enweghị oke
+1139,limp,-0.2,ngwongwo
+1140,hollowly,-0.2,nke oghere
+1141,sophomoric,-0.2,sophomoric
+1142,bravado,-0.2,obi ike
+1143,fluffy,-0.2,ire ụtọ
+1144,unschooledly,-0.2,n'agụghị akwụkwọ
+1145,mindless,-0.2,enweghị uche
+1146,diaphanously,-0.2,diaphanously
+1147,limply,-0.2,nke dị nro
+1148,impatiently,-0.2,enweghi ndidi
+1149,rightist,-0.2,onye ziri ezi
+1150,plod,-0.2,plod
+1151,dried,-0.2,akpọnwụwo
+1152,orthodoxly,-0.2,n'okirikiri
+1153,humble,-0.2,dị umeala n'obi
+1154,humbly,-0.2,dị umeala n'obi
+1155,fatty,-0.2,abuba abuba
+1156,deadly,-0.2,na-egbu egbu
+1157,green,-0.2,akwụkwọ ndụ akwụkwọ ndụ
+1158,messily,-0.2,messily
+1159,cryingly,-0.2,na-akwa ákwá
+1160,messy,-0.2,ime ntughari
+1161,dialectally,-0.2,n'olumba
+1162,redundantly,-0.2,ejighi oru
+1163,uneven,-0.2,na-ekwekọghị ekwekọ
+1164,fluffily,-0.2,nke ọma
+1165,cockily,-0.2,nke obi ụtọ
+1166,mediocrity,-0.2,ịdị nwayọọ
+1167,redundant,-0.2,ejighi oru
+1168,preachily,-0.2,ikwusa ozi ọma
+1169,mindlessly,-0.2,n'echeghị echiche
+1170,chitchat,-0.2,chitchat
+1171,few,-0.2,ole na ole
+1172,boundless,-0.2,enweghị oke
+1173,unnoticed,-0.2,na-ahụghị
+1174,heavily,-0.2,nke ukwuu
+1175,missingly,-0.2,efu
+1176,autistic,-0.2,autistic
+1177,harsh,-0.2,siri ike
+1178,diffident,-0.2,iche
+1179,trapped,-0.2,tọrọ atọ
+1180,cocky,-0.2,oke egwu
+1181,greenly,-0.2,akwụkwọ ndụ akwụkwọ ndụ
+1182,impatient,-0.2,enweghi ndidi
+1183,brash,-0.2,obi ike
+1184,preachy,-0.2,ikwusa ozi ọma
+1185,round,-0.2,gburugburu
+1186,unschooled,-0.2,na-agụghị akwụkwọ
+1187,firmly,-0.2,guzosie ike
+1188,starkly,-0.2,nke ukwuu
+1189,roundly,-0.2,gburugburu
+1190,unoriginally,-0.2,na-abụghị nke mbụ
+1191,waste,-0.2,imefusị ihe
+1192,sourly,-0.2,utoojoo
+1193,incoherent,-0.2,enweghị njikọ
+1194,incoherently,-0.2,incoherently
+1195,pale,-0.21,icha mmirimmiri
+1196,plainly,-0.214285714,n'ụzọ doro anya
+1197,stiff,-0.214285714,isi ike
+1198,plain,-0.214285714,larịị
+1199,stiffly,-0.214285714,isi ike
+1200,Tame,-0.216666667,Tame
+1201,tame,-0.216666667,zuo ezuo
+1202,sermon,-0.225,okwuchukwu
+1203,raw,-0.230769231,raw
+1204,tamely,-0.233333333,nke ọma
+1205,shady,-0.25,ndò
+1206,juvenile,-0.25,nwata
+1207,repetitive,-0.25,ugboro ugboro
+1208,ordinary,-0.25,nkịtị
+1209,sentimental,-0.25,mmetụta uche
+1210,pointlessly,-0.25,enweghị isi
+1211,excessively,-0.25,oke oke
+1212,overboard,-0.25,oke mmiri
+1213,shadily,-0.25,ndo
+1214,slickly,-0.25,slickly
+1215,usually,-0.25,na-emekarị
+1216,alcoholic,-0.25,aṅụrụma
+1217,slick,-0.25,slick
+1218,lazily,-0.25,dị umengwụ
+1219,aeriform,-0.25,ikuku
+1220,small,-0.25,obere
+1221,parade,-0.25,ngagharị
+1222,lazy,-0.25,umengwụ
+1223,repetitively,-0.25,ugboro ugboro
+1224,past,-0.25,gara aga
+1225,anxiously,-0.25,na-echegbu onwe ya
+1226,usual,-0.25,na-emekarị
+1227,amateur,-0.25,onye amu amu
+1228,sentimentally,-0.25,n'uche
+1229,pointless,-0.25,enweghị isi
+1230,excessive,-0.25,oke oke
+1231,alien,-0.25,ọbịa
+1232,unbelievably,-0.25,n'ekweghị ekwe
+1233,unbelievable,-0.25,ekweghiekwe
+1234,anxious,-0.25,na-echegbu onwe ya
+1235,ordinarily,-0.25,na-emekarị
+1236,hardly,-0.291666667,siri ike
+1237,dull,-0.291666667,duhie
+1238,hard,-0.291666667,ike
+1239,placidly,-0.3,n'ezoghị ọnụ
+1240,ugliness,-0.3,jọrọ njọ
+1241,pretentious,-0.3,na-aga n'ihu
+1242,negative,-0.3,adịghị mma
+1243,delicately,-0.3,nke siri ike
+1244,banally,-0.3,banally
+1245,sucker,-0.3,na-aṅụ ara
+1246,dishonest,-0.3,akwụwaghị aka ọtọ
+1247,fanatic,-0.3,onye na-anụ ọkụ n'obi
+1248,naively,-0.3,n'efu
+1249,idiocy,-0.3,nzuzu
+1250,undeserved,-0.3,erughị eru
+1251,untraceably,-0.3,enweghị ike ịchọpụta
+1252,exploitative,-0.3,erigbu
+1253,banal,-0.3,banal
+1254,untraceable,-0.3,enweghị ike ịchọpụta
+1255,commonly,-0.3,na-emekarị
+1256,raucous,-0.3,nke na-adịghị mma
+1257,dishonestly,-0.3,emeghị ihe n'eziokwu
+1258,pretentiously,-0.3,na-aga n'ihu
+1259,shoddy,-0.3,nke na-awụ akpata oyi n'ahụ
+1260,vapidly,-0.3,vapidly
+1261,prissy,-0.3,prissy
+1262,least,-0.3,kacha nta
+1263,complex,-0.3,mgbagwoju anya
+1264,naive,-0.3,nzuzu
+1265,clumsily,-0.3,n'atụghị egwu
+1266,plodding,-0.3,ịkwa iko
+1267,delicate,-0.3,siri ike
+1268,complexly,-0.3,siri ike
+1269,negatively,-0.3,na-adịghị mma
+1270,badness,-0.3,ihe ọjọọ
+1271,strutting,-0.3,ịgba mbọ
+1272,rudely,-0.3,obi ọjọọ
+1273,undeservedly,-0.3,na-erughịrị mmadụ
+1274,secondarily,-0.3,nke abụọ
+1275,vapid,-0.3,vapid
+1276,scum,-0.3,afuo
+1277,raucously,-0.3,n'ike
+1278,rude,-0.3,adịghị mma
+1279,secondary,-0.3,nke abụọ
+1280,placid,-0.3,plaid
+1281,edgy,-0.3,anya
+1282,wonky,-0.3,wonky
+1283,complaint,-0.3,mkpesa
+1284,melodrama,-0.3,melodrama
+1285,lately,-0.3,n'oge na-adịbeghị anya
+1286,soured,-0.3,gbara utoojoo
+1287,common,-0.3,nkịtị
+1288,clumsy,-0.3,ntugheri anya
+1289,coriaceous,-0.3,coriaceous
+1290,late,-0.3,mbubreyo
+1291,shoddily,-0.3,na-atụ ụjọ
+1292,confusingly,-0.3,na-agbagwoju anya
+1293,forced,-0.3,amanye
+1294,thickly,-0.3,nke ukwu
+1295,slow,-0.3,nwayo
+1296,thick,-0.3,oké
+1297,forcedly,-0.3,n'amanye
+1298,slowly,-0.3,nwayọọ nwayọọ
+1299,meanly,-0.3125,pụtara
+1300,mean,-0.3125,pụtara
+1301,failure,-0.316666667,ọdịda
+1302,shallowly,-0.333333333,na-emighị emi
+1303,seriously,-0.333333333,kpọrọ ihe
+1304,shaky,-0.333333333,maa jijiji
+1305,subtly,-0.333333333,n'ụzọ aghụghọ
+1306,ridiculously,-0.333333333,ihe ọchị
+1307,tense,-0.333333333,ike
+1308,shakily,-0.333333333,n'atụghị egwu
+1309,shallow,-0.333333333,emighị emi
+1310,tensely,-0.333333333,nke siri ike
+1311,subtle,-0.333333333,aghụghọ
+1312,ridiculous,-0.333333333,ihe ọchị
+1313,serious,-0.333333333,oké njọ
+1314,arduous,-0.35,ike ike
+1315,incompetent,-0.35,erughi eru
+1316,arduously,-0.35,nke siri ike
+1317,appallingly,-0.35,dị egwu
+1318,appalling,-0.35,dị egwu
+1319,weak,-0.375,adịghị ike
+1320,dumb,-0.375,ogbi
+1321,weakly,-0.375,adịghị ike
+1322,dumbly,-0.375,nkwubi okwu
+1323,tough,-0.388888889,siri ike
+1324,toughly,-0.388888889,siri ike
+1325,incompetently,-0.4,enweghị ikike
+1326,criminally,-0.4,mpụ
+1327,ungraded,-0.4,enweghị ọkwa
+1328,unhealthily,-0.4,na-adịghị mma
+1329,defenselessly,-0.4,na-enweghị nchebe
+1330,peevishly,-0.4,nke ọma
+1331,game,-0.4,egwuregwu
+1332,tired,-0.4,ike gwụrụ
+1333,inflexible,-0.4,enweghị mgbanwe
+1334,approximate,-0.4,odika
+1335,dustily,-0.4,uzuzu uzuzu
+1336,impassive,-0.4,emeghi ihe
+1337,farcical,-0.4,facical
+1338,farcically,-0.4,nke ọma
+1339,confusedly,-0.4,na mgbagwoju anya
+1340,impassively,-0.4,impassively
+1341,causticly,-0.4,nke ọma
+1342,gluey,-0.4,gluu
+1343,defenseless,-0.4,enweghị nchebe
+1344,bootleg,-0.4,akpụkpọ ụkwụ
+1345,secretly,-0.4,na nzuzo
+1346,alas,-0.4,Ewoo
+1347,gamely,-0.4,egwuregwu
+1348,approximately,-0.4,ihe dị ka
+1349,unnecessarily,-0.4,na-enweghị isi
+1350,addicted,-0.4,riri ahụ
+1351,unnecessary,-0.4,adịghị mkpa
+1352,algid,-0.4,algid
+1353,shrill,-0.4,mkpu
+1354,infantile,-0.4,nwa ọhụrụ
+1355,amateurishly,-0.4,amateurishly
+1356,unimportant,-0.4,adịghị mkpa
+1357,farce,-0.4,faso
+1358,irritatingly,-0.4,na-ewe iwe
+1359,unfocused,-0.4,enweghị uche
+1360,extinct,-0.4,ikpochapu
+1361,Godforsaken,-0.4,Chineke gbahapụrụ
+1362,caustic,-0.4,caustic
+1363,broken,-0.4,gbajiri agbaji
+1364,unplayable,-0.4,enweghị atụ
+1365,thin,-0.4,mkpa
+1366,worse,-0.4,njọ
+1367,secret,-0.4,nzuzo
+1368,unimportantly,-0.4,adịghị mkpa
+1369,tiredly,-0.4,ike ọgwụgwụ
+1370,poor,-0.4,ogbenye
+1371,exhausting,-0.4,na-agwụ ike
+1372,deficient,-0.4,erughi eru
+1373,unappealing,-0.4,na-enweghị mmasị
+1374,unhealthy,-0.4,adịghị mma
+1375,confused,-0.4,mgbagwoju anya
+1376,contestable,-0.4,nwere ike ịsọ mpi
+1377,shrieky,-0.4,mkpu
+1378,deficiently,-0.4,erughi eru
+1379,brokenly,-0.4,gbajiri agbaji
+1380,terminally,-0.4,n'ikpeazụ
+1381,unstirred,-0.4,na-enweghị mkpali
+1382,contestably,-0.4,n'asọmpi
+1383,peevish,-0.4,ikiri
+1384,exhaustedly,-0.4,ike ọgwụgwụ
+1385,thinly,-0.4,dị obere
+1386,shriekily,-0.4,tie mkpu
+1387,amateurish,-0.4,amateurish
+1388,cacophonous,-0.4,cacophonous
+1389,cacophonously,-0.4,cacophonously
+1390,dusty,-0.4,uzuzu uzuzu
+1391,poorly,-0.4,adịghị mma
+1392,criminal,-0.4,omempụ
+1393,behind,-0.4,n'azụ
+1394,exhaustingly,-0.4,na-agwụ ike
+1395,irritating,-0.4,na-agbakasị ahụ
+1396,inflexibly,-0.4,na-agbanweghi agbanwe
+1397,exhausted,-0.4,ike gwụrụ ya
+1398,falsely,-0.4,ụgha
+1399,outdated,-0.4,oge ochie
+1400,FALSE,-0.4,Ụgha
+1401,sloppily,-0.416666667,nwayọọ nwayọọ
+1402,sloppy,-0.416666667,slopi
+1403,dramatic,-0.433333333,dị egwu
+1404,maladroit,-0.466666667,maladroit
+1405,maladroitly,-0.466666667,maladroitly
+1406,drunk,-0.5,mmanya na-egbu egbu
+1407,weirdly,-0.5,dị egwu
+1408,mere,-0.5,naanị
+1409,shy,-0.5,ihere
+1410,laughable,-0.5,na-achị ọchị
+1411,vulnerable,-0.5,adịghị ike
+1412,random,-0.5,random
+1413,careless,-0.5,akpachapụghị anya
+1414,frightening,-0.5,na-atụ egwu
+1415,wary,-0.5,ịkpachara anya
+1416,uninspired,-0.5,n'ike mmụọ nsọ
+1417,needlessly,-0.5,na-enweghị isi
+1418,angrily,-0.5,were iwe
+1419,powerless,-0.5,enweghị ike
+1420,guilty,-0.5,ikpe mara
+1421,dazedly,-0.5,na-atụ ụjọ
+1422,corpulently,-0.5,nke ọma
+1423,whimsically,-0.5,n'ime ihe ọchị
+1424,absurdly,-0.5,nzuzu
+1425,unashamedly,-0.5,n'emeghi ihere
+1426,laughably,-0.5,na-achị ọchị
+1427,dowdily,-0.5,dowdily
+1428,faint,-0.5,daa mba
+1429,warily,-0.5,nlezianya
+1430,infamous,-0.5,aha ọjọọ
+1431,twistedly,-0.5,gbagọrọ agbagọ
+1432,unfortunately,-0.5,dị mwute ikwu
+1433,brainsickly,-0.5,obi mgbawa
+1434,tiresomely,-0.5,na-agwụ ike
+1435,irrelevant,-0.5,adịghị mkpa
+1436,randomly,-0.5,enweghị usoro
+1437,flashily,-0.5,na-egbu maramara
+1438,wrong,-0.5,ezighi ezi
+1439,pleonastic,-0.5,pleonastic
+1440,ashen,-0.5,ashen
+1441,psychotic,-0.5,psychotic
+1442,mediocre,-0.5,ọkara
+1443,complicated,-0.5,mgbagwoju anya
+1444,churning,-0.5,na-eti mkpu
+1445,simplistic,-0.5,dị mfe
+1446,blindly,-0.5,kpuru ìsì
+1447,nameless,-0.5,enweghị aha
+1448,carelessly,-0.5,n'akpachapụghị anya
+1449,whimsical,-0.5,kensinammuo
+1450,blind,-0.5,kpuru ìsì
+1451,fake,-0.5,adịgboroja
+1452,difficultly,-0.5,siri ike
+1453,fail,-0.5,daa
+1454,twisted,-0.5,gbagọrọ agbagọ
+1455,useless,-0.5,abaghị uru
+1456,lousily,-0.5,n'ike
+1457,gorily,-0.5,gorily
+1458,absurd,-0.5,ihe nzuzu
+1459,inexpedient,-0.5,enweghi ego
+1460,meaningless,-0.5,enweghị isi
+1461,faintly,-0.5,ike ọgwụgwụ
+1462,insecurely,-0.5,na-enweghị nchebe
+1463,disturbingly,-0.5,na-akpasu iwe
+1464,sad,-0.5,mwute
+1465,nostalgic,-0.5,nostalgic
+1466,bloodthirstily,-0.5,na-agụ ọbara
+1467,difficult,-0.5,siri ike
+1468,blatantly,-0.5,n'ezoghị ọnụ
+1469,aweary,-0.5,na-atụ egwu
+1470,lamely,-0.5,ngwọrọ
+1471,flashy,-0.5,na-egbu maramara
+1472,uncut,-0.5,ebipụghị
+1473,sadly,-0.5,dị mwute
+1474,vaguely,-0.5,edoghị anya
+1475,merely,-0.5,naanị
+1476,tedious,-0.5,na-agwụ ike
+1477,didactic,-0.5,didactic
+1478,illegally,-0.5,n'ụzọ iwu na-akwadoghị
+1479,sorrily,-0.5,nwute
+1480,offbeat,-0.5,offbea
+1481,gratuitously,-0.5,nke ọma
+1482,unilateral,-0.5,otu akụkụ
+1483,feebly,-0.5,nke dị nro
+1484,erroneously,-0.5,ezighi ezi
+1485,stereotypical,-0.5,stereotypical
+1486,jackass,-0.5,jackass
+1487,frighteningly,-0.5,na-atụ egwu
+1488,incurably,-0.5,enweghị ọgwụgwọ
+1489,skeptical,-0.5,na-enyo enyo
+1490,feeble,-0.5,esighi ike
+1491,selfish,-0.5,ịchọ ọdịmma onwe onye nanị
+1492,infamously,-0.5,aha ọjọọ
+1493,sinisterly,-0.5,njo
+1494,gratuitous,-0.5,n'efu
+1495,inauspicious,-0.5,adịghị mma
+1496,tediously,-0.5,ike ọgwụgwụ
+1497,silly,-0.5,nzuzu
+1498,exaggerated,-0.5,ikwubiga okwu ókè
+1499,unably,-0.5,enweghị ike
+1500,lame,-0.5,ngwọrọ
+1501,dowdy,-0.5,isi
+1502,stale,-0.5,toro
+1503,uncomfortably,-0.5,erughị ala
+1504,uselessly,-0.5,na-abaghị uru
+1505,distasteful,-0.5,na-asọ oyi
+1506,sillily,-0.5,nzuzu
+1507,insecure,-0.5,enweghị ntụkwasị obi
+1508,corruptly,-0.5,rụrụ arụ
+1509,startling,-0.5,na-atụ egwu
+1510,unfairly,-0.5,na-ezighị ezi
+1511,selfishly,-0.5,ịchọ ọdịmma onwe onye nanị
+1512,calculable,-0.5,nwere ike ịgbakọ
+1513,scarily,-0.5,ujo
+1514,wrongly,-0.5,ezighi ezi
+1515,scary,-0.5,egwu
+1516,questionable,-0.5,na-enyo enyo
+1517,chilling,-0.5,oyi
+1518,incurable,-0.5,enweghị ọgwụgwọ
+1519,disturbing,-0.5,na-enye nsogbu
+1520,needless,-0.5,enweghị isi
+1521,namelessly,-0.5,n'enweghị aha
+1522,collectible,-0.5,mkpokọta
+1523,erroneous,-0.5,ezighi ezi
+1524,assumptive,-0.5,na-eche echiche
+1525,flawed,-0.5,nwere ntụpọ
+1526,inexpediently,-0.5,na-atụghị anya ya
+1527,sorry,-0.5,ndo
+1528,unfortunate,-0.5,adịghị mma
+1529,skeptically,-0.5,na-enyo enyo
+1530,vulnerably,-0.5,adịghị ike
+1531,gory,-0.5,gori
+1532,stinker,-0.5,esi ísì
+1533,suffocating,-0.5,na-egbu egbu
+1534,assumptively,-0.5,n'echiche
+1535,irrelevantly,-0.5,na-adịghị mkpa
+1536,angry,-0.5,iwe
+1537,weird,-0.5,dị egwu
+1538,chillingly,-0.5,na-atụ ụjọ
+1539,expensively,-0.5,dị oke ọnụ
+1540,unfair,-0.5,ezighi ezi
+1541,unsettling,-0.5,na-adịghị ada mbà
+1542,ascetic,-0.5,ascetic
+1543,unlikely,-0.5,eleghi anya
+1544,cheesy,-0.5,cheesy
+1545,powerlessly,-0.5,n'enweghị ike
+1546,bloodthirsty,-0.5,ọbara-ọbara
+1547,illegal,-0.5,iwu na-akwadoghị
+1548,unrealistic,-0.5,emeghi eme
+1549,eerie,-0.5,egwu
+1550,inauspiciously,-0.5,na-adịghị mma
+1551,exaggeratedly,-0.5,ikwubiga okwu ókè
+1552,guiltily,-0.5,ikpe ọmụma
+1553,unable,-0.5,enweghị ike
+1554,uncomfortable,-0.5,erughị ala
+1555,unilaterally,-0.5,otu akụkụ
+1556,corpulent,-0.5,purulent
+1557,corrupt,-0.5,rụrụ arụ
+1558,troubledly,-0.5,na-echegbu onwe ya
+1559,distastefully,-0.5,na-asọ oyi
+1560,forgettable,-0.5,echefuru echefu
+1561,blatant,-0.5,kwụ ọtọ
+1562,vague,-0.5,edoghị anya
+1563,dazed,-0.5,tụrụ ụjọ
+1564,expensive,-0.5,ọnụ
+1565,tiresome,-0.5,ike ọgwụgwụ
+1566,unashamed,-0.5,emeghi ihere
+1567,ill,-0.5,na-arịa ọrịa
+1568,meaninglessly,-0.5,enweghị isi
+1569,sinister,-0.5,njọ
+1570,questionably,-0.5,na-enyo enyo
+1571,complicatedly,-0.5,mgbagwoju anya
+1572,lousy,-0.5,nke na-adịghị mma
+1573,creepy,-0.5,na-akpụ akpụ
+1574,brainsick,-0.5,obi mgbawa
+1575,startlingly,-0.5,na-atụ n'anya
+1576,casually,-0.5,n'atụghị egwu
+1577,casual,-0.5,nkịtị
+1578,grotesquely,-0.55,grotesquely
+1579,grotesque,-0.55,grotesque
+1580,gawkily,-0.55,gawakily
+1581,indecipherable,-0.55,enweghị nkọwa
+1582,deadpan,-0.55,onwu
+1583,indecipherably,-0.55,enweghị nkọwa
+1584,gawky,-0.55,gwuo egwu
+1585,measly,-0.566666667,measly
+1586,stabbing,-0.6,na-eti ihe
+1587,crazy,-0.6,onye ara
+1588,desperately,-0.6,na-achọsi ike
+1589,agitative,-0.6,mkpasu iwe
+1590,battleful,-0.6,agha
+1591,unbefittingly,-0.6,na-ekwesịghị ekwesị
+1592,meagerly,-0.6,nke ntakiri
+1593,cuttingly,-0.6,nke dị nro
+1594,unpropitiously,-0.6,na-adịghị mma
+1595,unfaithful,-0.6,ekwesịghị ntụkwasị obi
+1596,haplessly,-0.6,n'enweghi obi uto
+1597,fiendishly,-0.6,fiendishly
+1598,stabbingly,-0.6,na-eti mkpu
+1599,prolix,-0.6,prolix
+1600,subnormal,-0.6,subnormal
+1601,cynically,-0.6,n'ụzọ nlelị
+1602,disappointingly,-0.6,na-akụda mmụọ
+1603,scathing,-0.6,nkwutọ
+1604,chilly,-0.6,oyi
+1605,scathingly,-0.6,n'ike
+1606,inexplicably,-0.6,na-akọwaghị
+1607,cutting,-0.6,ịcha
+1608,muggy,-0.6,muggy
+1609,cold,-0.6,oyi
+1610,dangerously,-0.6,dị ize ndụ
+1611,afraid,-0.6,egwu
+1612,stupidity,-0.6,nzuzu
+1613,tasteless,-0.6,enweghị ụtọ
+1614,fiendish,-0.6,fiendish
+1615,dirtily,-0.6,ruru unyi
+1616,blasted,-0.6,gbawara
+1617,disappointing,-0.6,na-akụda
+1618,coldly,-0.6,oyi
+1619,grandiloquently,-0.6,ebube
+1620,depressingly,-0.6,na-ada mbà n'obi
+1621,meager,-0.6,obere
+1622,artificially,-0.6,arụrụ arụ
+1623,depressing,-0.6,na-akụda mmụọ
+1624,crazily,-0.6,na ara ara
+1625,inconveniently,-0.6,na-adịghị mma
+1626,undignifiedly,-0.6,na-enweghị nkwanye ùgwù
+1627,diseasedly,-0.6,na-arịa ọrịa
+1628,bloodstained,-0.6,nwere ọbara
+1629,hapless,-0.6,enweghị obi ụtọ
+1630,unfaithfully,-0.6,ekwesịghị ntụkwasị obi
+1631,unhappy,-0.6,enweghị obi ụtọ
+1632,unhappily,-0.6,enweghị obi ụtọ
+1633,awkward,-0.6,dị egwu
+1634,disappointment,-0.6,ndakpọ olileanya
+1635,corruptible,-0.6,ire ure
+1636,destructively,-0.6,na-ebibi ihe
+1637,grudgingly,-0.6,n'iwe iwe
+1638,unpropitious,-0.6,adịghị mma
+1639,deplorably,-0.6,na-ewute
+1640,dirty,-0.6,ruru unyi
+1641,undignified,-0.6,enweghị nkwanye ùgwù
+1642,tastelessly,-0.6,enweghị ụtọ
+1643,inconvenient,-0.6,adịghị mma
+1644,grudging,-0.6,iwe iwe
+1645,haphazard,-0.6,ihe ojoo
+1646,grandiloquent,-0.6,ebube
+1647,artificial,-0.6,keakamere
+1648,muggily,-0.6,muggily
+1649,chicken,-0.6,ọkụkọ
+1650,unbefitting,-0.6,na-ekwesịghị ekwesị
+1651,prolixly,-0.6,prolixly
+1652,dangerous,-0.6,dị ize ndụ
+1653,unfruitfully,-0.6,na-amịghị mkpụrụ
+1654,chillily,-0.6,chillily
+1655,inexplicable,-0.6,enweghị nkọwa
+1656,distraught,-0.6,na-ewute
+1657,numbly,-0.6,na-akụda mmụọ
+1658,destructive,-0.6,na-ebibi ihe
+1659,unfruitful,-0.6,adịghị amị mkpụrụ
+1660,numb,-0.6,nwuo
+1661,deplorable,-0.6,dị mwute
+1662,awkwardly,-0.6,dị egwu
+1663,cynical,-0.6,nkatọ
+1664,haphazardly,-0.6,n'atụghị egwu
+1665,aghast,-0.6,egwu
+1666,desperate,-0.6,obi nkoropụ
+1667,diseased,-0.6,ọrịa
+1668,madly,-0.625,were were
+1669,mad,-0.625,ara
+1670,unpleasantly,-0.65,na-adịghị mma
+1671,discourteously,-0.65,n'atụghị egwu
+1672,unintelligent,-0.65,enweghị ọgụgụ isi
+1673,unintelligently,-0.65,n'amaghị ama
+1674,unpleasant,-0.65,adịghị mma
+1675,discourteous,-0.65,enweghị uche
+1676,impossible,-0.666666667,agaghị ekwe omume
+1677,idiotic,-0.666666667,onye nzuzu
+1678,impossibly,-0.666666667,agaghị ekwe omume
+1679,badly,-0.7,nke ọma
+1680,bad,-0.7,ọjọọ
+1681,ugly,-0.7,jọrọ njọ
+1682,uglily,-0.7,jọrọ njọ
+1683,disastrous,-0.7,ọdachi
+1684,atrociously,-0.7,jọgburu onwe ya
+1685,anger,-0.7,iwe
+1686,unchastely,-0.7,na-adịghị ọcha
+1687,crudely,-0.7,nke obi oma
+1688,crude,-0.7,cruden
+1689,vulgarly,-0.7,nke rụrụ arụ
+1690,mercilessly,-0.7,na-enweghị obi ebere
+1691,atrocious,-0.7,obi ọjọọ
+1692,grr,-0.7,grr
+1693,disastrously,-0.7,dị egwu
+1694,merciless,-0.7,enweghị obi ebere
+1695,abhorrent,-0.7,na-asọ oyi
+1696,painful,-0.7,na-egbu mgbu
+1697,Barbarian,-0.7,Ahịhịa
+1698,vulgar,-0.7,okwu rụrụ arụ
+1699,painfully,-0.7,na-egbu mgbu
+1700,abhorrently,-0.7,na-asọ oyi
+1701,barbarian,-0.7,onye mba ọzọ
+1702,unchaste,-0.7,adịghị ọcha
+1703,sickly,-0.714285714,na-arịa ọrịa
+1704,sick,-0.714285714,na-arịa ọrịa
+1705,uncivil,-0.733333333,onye obodo
+1706,uncivilly,-0.733333333,na-adịghị mma
+1707,disappointedly,-0.75,ndakpọ olileanya
+1708,tragic,-0.75,dị mwute
+1709,disappointed,-0.75,emechu ihu
+1710,tragicly,-0.75,dị mwute
+1711,malevolently,-0.8,n'ike
+1712,stupidly,-0.8,nzuzu
+1713,stupid,-0.8,onye nzuzu
+1714,malevolent,-0.8,obi ọjọọ
+1715,filthily,-0.8,nke ruru unyi
+1716,moron,-0.8,moron
+1717,inappositely,-0.8,n'atụghị egwu
+1718,egoistic,-0.8,onye ego
+1719,violent,-0.8,ime ihe ike
+1720,inapposite,-0.8,ezighi ezi
+1721,rancorously,-0.8,n'amaghị ama
+1722,imbecile,-0.8,emebeghi ihe
+1723,retarded,-0.8,azụ azụ
+1724,debauched,-0.8,rụrụ arụ
+1725,violently,-0.8,n'ike
+1726,filthy,-0.8,ruru unyi
+1727,grievously,-0.8,nke ukwuu
+1728,basely,-0.8,ndabere
+1729,grievous,-0.8,dị mwute
+1730,worthlessly,-0.8,na-abaghị uru
+1731,bloodily,-0.8,na-agba ọbara
+1732,idiot,-0.8,onye nzuzu
+1733,doubtfully,-0.8,obi abụọ
+1734,rancorous,-0.8,rancorous
+1735,debauchedly,-0.8,nke rụrụ arụ
+1736,annoying,-0.8,na-akpasu iwe
+1737,bloody,-0.8,ọbara
+1738,unappetizing,-0.8,na-adịghị eri nri
+1739,doubtful,-0.8,obi abụọ
+1740,rankly,-0.8,n'usoro
+1741,annoyingly,-0.8,na-ewe iwe
+1742,crap,-0.8,ihe ojoo
+1743,hate,-0.8,ịkpọ asị
+1744,rank,-0.8,ọkwa
+1745,base,-0.8,isi
+1746,worthless,-0.8,abaghị uru
+1747,grief,-0.8,iru uju
+1748,deadlily,-0.833333333,na-egbu egbu
+1749,brutally,-0.875,obi ọjọọ
+1750,brutal,-0.875,obi ọjọọ
+1751,frigid,-0.9,friji
+1752,retard,-0.9,laghachi azụ
+1753,inhumanely,-0.9,na-adịghị mma
+1754,sickening,-0.9,na-arịa ọrịa
+1755,repellent,-0.9,nke na-asọ oyi
+1756,repellently,-0.9,n'ike
+1757,inhumane,-0.9,obi ọjọọ
+1758,sickeningly,-0.9,na-arịa ọrịa
+1759,fearfully,-0.9,egwu
+1760,fearful,-0.9,egwu
+1761,frigidly,-0.9,n'atụghị egwu
+1762,terrifyingly,-1,na-atụ egwu
+1763,horribly,-1,dị egwu
+1764,boringly,-1,na-agwụ ike
+1765,terribly,-1,dị egwu
+1766,patheticly,-1,nke obi ebere
+1767,cruel,-1,obi ọjọọ
+1768,insulting,-1,mkparị
+1769,shocking,-1,na-awụ akpata oyi
+1770,menacingly,-1,na-eyi egwu
+1771,disgusting,-1,na-asọ oyi
+1772,insultingly,-1,mkparị
+1773,disgustingly,-1,na-asọ oyi
+1774,miserably,-1,nhụsianya
+1775,outrageously,-1,oke iwe
+1776,disgusted,-1,kpọrọ asị
+1777,devastatingly,-1,na-agbawa obi
+1778,horrific,-1,egwu
+1779,viciously,-1,obi ọjọọ
+1780,ruthless,-1,enweghị obi ebere
+1781,awful,-1,jọgburu onwe ya
+1782,grim,-1,njo
+1783,worst,-1,kacha njọ
+1784,bleak,-1,agba oji
+1785,nasty,-1,obi ojoo
+1786,awfully,-1,oke egwu
+1787,evil,-1,ihe ojoo
+1788,insanely,-1,nke ara
+1789,devastating,-1,na-agbawa obi
+1790,evilly,-1,ọjọọ
+1791,hysterical,-1,hysterical
+1792,nastily,-1,nastily
+1793,insane,-1,ara
+1794,hysterically,-1,na hysterically
+1795,horrible,-1,jọgburu onwe ya
+1796,miserable,-1,nhụsianya
+1797,dreadful,-1,dị egwu
+1798,pathetic,-1,obi ebere
+1799,grimly,-1,ji nwayọọ
+1800,boring,-1,na-agwụ ike
+1801,vicious,-1,obi ojoo
+1802,dreadfully,-1,dị egwu
+1803,gruesome,-1,di egwu
+1804,disgustedly,-1,na-asọ oyi
+1805,bleakly,-1,nke jọrọ njọ
+1806,terrifying,-1,na-atụ egwu
+1807,menacing,-1,egwu
+1808,cruelly,-1,obi ọjọọ
+1809,outrageous,-1,oke iwe
+1810,ruthlessly,-1,enweghị obi ebere
+1811,shockingly,-1,na-awụ akpata oyi
+1812,gruesomely,-1,dị egwu
+1813,terrible,-1,egwu
